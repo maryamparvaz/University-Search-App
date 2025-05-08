@@ -22,12 +22,6 @@ This project allows users to search for universities by name using the public AP
 
 ---
 
-## 🔗 Live Demo
-
-> (Optional if hosted somewhere like Vercel or Netlify)  
-> [Live Demo](https://your-deployment-url.com)
-
----
 
 ## 📁 How to Run Locally
 
