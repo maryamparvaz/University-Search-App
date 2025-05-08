@@ -16,7 +16,7 @@ export interface SearchParams {
   limit: number;
 }
 
-const BASE_URL = 'http://universities.hipolabs.com/search';
+const BASE_URL = 'https://universities.hipolabs.com/search';
 
 export const searchUniversities = async ({ name, page, limit }: SearchParams): Promise<{
   universities: University[];
